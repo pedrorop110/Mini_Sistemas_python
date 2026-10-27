@@ -1,7 +1,7 @@
 # Criar a classe Celular com marca e bateria (começa em 100).
 # Método usar(): tira 10 da bateria.
 # Método carregar(): soma 20, sem passar de 100.
-# Criar um celular, usar 2 vezes, carregar 1 vez e imprimir a bateria. Resultado esperado: 90.
+# Criar um celular, usar 2 vezes, carregar 1 vez e imprimir a bateria. Resultado esperado: 100.
 
 class celular:
     def __init__(self, marca, bateria=100):
